@@ -1,0 +1,14 @@
+.button{
+    width: fit-content;
+    height: fit-content;
+    padding: 15px;
+    color: #ffffff;
+    background: #db0000;
+    border:none;
+    border-radius: 20px;
+    outline: none;
+    font-size: 30px;
+    margin: 5px;
+
+
+}
